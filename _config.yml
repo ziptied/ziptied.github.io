@@ -3,17 +3,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
+title:            Swing the bat
 tagline:          The Jekyll Butler
-url:              http://getpoole.com
+url:              http://ziptied.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Zachary Oakes
+  url:            https://twitter.com/ziptied
+  email:          zachary.oakes@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/ziptied/ziptied
