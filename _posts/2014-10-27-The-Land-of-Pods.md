@@ -1,11 +1,11 @@
 ---
 layout: post-light-feature
-title: Test Post
-description: "Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage."
+title: The Land of Pods
+description: Faced with sleeping in terminal in LAX or figuring out sleeping in Tokyo as close to the airport as possible for as little $ as possible. 
 categories: articles
-date: 2013-08-17
+date: 2014-10-27
 image: 
-        feature: soft-trees.jpg
+        feature: img_0477.jpg
 ---
 Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
 
