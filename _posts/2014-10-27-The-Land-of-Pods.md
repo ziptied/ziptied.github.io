@@ -23,7 +23,7 @@ As pictured at the top its a wall that seems to go on forever like some sort of 
 
 I would do it again, without a second thought. 
 <figure>
-	({{ site.url }}/images/0476.jpg)
+	![The Pod I slept in]({{ site.url }}/images/0476.jpg)
 	<figcaption>Closeup of the POD!</figcaption>
 </figure>
 
