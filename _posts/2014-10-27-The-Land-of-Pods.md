@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pods ahoy!
-description: Faced with sleeping in terminal in LAX or figuring out sleeping in Tokyo as close to the airport as possible for as little $ as possible. 
+title: "Pods ahoy!"
+description: "Faced with sleeping in terminal in LAX or figuring out sleeping in Tokyo as close to the airport as possible for as little $ as possible." 
 categories: articles
 date: 2014-10-27
 image: 
