@@ -65,14 +65,14 @@ Oh and how tasty it is, light flavored but dense meat, flakey and completely dri
 
 <figure>
 	<img src="/images/mefugu.jpg">
-	<figcaption>Magic watermark!</figcaption>
+	<figcaption>Gotta suck that meat off the poisonous spines</figcaption>
 </figure>
 
 I suck the meat off the spines drain the bowl, ready for another. Instead I bowel of snails arrives and I am beginning to feel like a test subject. Is everyone just trying to see if there is something I don't like or won't eat. The snails are excellent as well, tender just how I like them. 
 
 <figure>
 	<img src="/images/snails.jpg">
-	<figcaption>Magic watermark!</figcaption>
+	<figcaption>oh the delicious snails</figcaption>
 </figure>
 
 Another sake later, with pretty much everyone having left, the chef comes out sits down with me and sets up a game board I have never seen in my life. He explains he wants to teach me Shogi. It seems that my night of culture exchange via food isn't over. 
