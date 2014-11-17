@@ -86,9 +86,13 @@ Next we played a simpler game with the same pieces that mimicked western checker
 That was the end of the night, I thanked him and he asked me to come back some time and play again. Which I took as a honest request and I just might have to, after I study up on Shogi a bit! This level of friendliness and hospitality is why I loved me previous visit here. Its easy to make friends and they are eager to share the local life. 
 
 ---
+
+[1]: http://en.wikipedia.org/wiki/Fugu/        "Fugu"
+[2]: http://en.wikipedia.org/wiki/Shogi/  "Shogi"
+[3]: http://en.wikipedia.org/wiki/Skipjack_tuna/    "Bonito"
   
 ###Additional Reading
-	fugu: [http://en.wikipedia.org/wiki/Fugu](http://en.wikipedia.org/wiki/Fugu)
-	Shogi: [http://en.wikipedia.org/wiki/Shogi](http://en.wikipedia.org/wiki/Shogi)
-	Bonito: [http://en.wikipedia.org/wiki/Skipjack_tuna](http://en.wikipedia.org/wiki/Skipjack_tuna)
-	
+
+1. [Fugu][1]	
+2. [Shogi][2]
+3. [Bonito][3]	
