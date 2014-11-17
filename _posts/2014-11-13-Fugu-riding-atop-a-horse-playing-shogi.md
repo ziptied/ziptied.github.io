@@ -87,8 +87,8 @@ That was the end of the night, I thanked him and he asked me to come back some t
 
 ---
   
-####Additional Reading
-	fugu: <http://en.wikipedia.org/wiki/Fugu>
-	Shogi: <http://en.wikipedia.org/wiki/Shogi>
-	Bonito: <http://en.wikipedia.org/wiki/Skipjack_tuna>
+###Additional Reading
+	fugu: [http://en.wikipedia.org/wiki/Fugu](http://en.wikipedia.org/wiki/Fugu)
+	Shogi: [http://en.wikipedia.org/wiki/Shogi](http://en.wikipedia.org/wiki/Shogi)
+	Bonito: [http://en.wikipedia.org/wiki/Skipjack_tuna](http://en.wikipedia.org/wiki/Skipjack_tuna)
 	
