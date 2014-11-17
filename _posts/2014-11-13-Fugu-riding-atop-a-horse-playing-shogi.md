@@ -84,6 +84,11 @@ I put up as good of a fight as I can, but it was a game of of delaying my loss a
 Next we played a simpler game with the same pieces that mimicked western checkers. I fair much better, and we quickly are locked in a speed match of trading pieces. Though a few sake in I make a mistake and it costs me the game. Still excellent fun. 
 
 That was the end of the night, I thanked him and he asked me to come back some time and play again. Which I took as a honest request and I just might have to, after I study up on Shogi a bit! This level of friendliness and hospitality is why I loved me previous visit here. Its easy to make friends and they are eager to share the local life. 
+
+---
   
-
-
+####Additional Reading
+	fugu: <http://en.wikipedia.org/wiki/Fugu>
+	Shogi: <http://en.wikipedia.org/wiki/Shogi>
+	Bonito: <http://en.wikipedia.org/wiki/Skipjack_tuna>
+	
